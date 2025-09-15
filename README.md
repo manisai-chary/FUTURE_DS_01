@@ -38,7 +38,9 @@ reports/screenshots/ # Dashboard visuals
 ## 🔗 Access
 - **GitHub Repo:** [FUTURE_DS_01 Repository](https://github.com/manisai-chary/FUTURE_DS_01)  
 - **PBIX File:** Available in `powerbi/sales.pbix`  
-    
+
+
+   Dataset used for this project:[ https://1drv.ms/u/c/1d4cf36046ef3bc4/EfulSyeQ1mBMmCYXN5QJaE8B51eXB1SGEnUfNyT3N_e2Qg?e=6k6c3j]
 ---
 
 ## 🙌 Internship
