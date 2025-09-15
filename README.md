@@ -31,3 +31,17 @@ FUTURE_DS_01/
 powerbi/sales.pbix # Power BI dashboard
 reports/dashboard.pdf # Exported PDF report
 reports/screenshots/ # Dashboard visuals
+
+
+---
+
+## 🔗 Access
+- **GitHub Repo:** [FUTURE_DS_01 Repository](https://github.com/manisai-chary/FUTURE_DS_01)  
+- **PBIX File:** Available in `powerbi/sales.pbix`  
+    
+---
+
+## 🙌 Internship
+This project is part of my **Future Interns Data Science & Analytics Internship (Track Code: DS)**.  
+By completing this task, I practiced **data cleaning, DAX, trend analysis, and business storytelling** using Power BI.
+
